@@ -57,6 +57,8 @@ namespace ProtostarAlphaBot.Dialogs
                         break;
                     case "sun":
                     case "sol":
+                        // correct for alias
+                        LastMessage = "sun";
                         await context.PostAsync(
                             "Earth's sun, Sol...  the only known star inside our starsystem (unless you count that Nemesis theory...)");
                         PromptDialog.Confirm(
@@ -156,6 +158,8 @@ namespace ProtostarAlphaBot.Dialogs
                     case "halley's comet":
                     case "haley's comet":
                     case "hailey's comet":
+                        // correct for alias
+                        LastMessage = "halley's comet";
                         await context.PostAsync("Ah, you're going cold here with Halley's Comet...");
                         PromptDialog.Confirm(
                             context,
