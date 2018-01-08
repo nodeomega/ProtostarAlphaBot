@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Name": "Sun",
+    "Type": "Star",
+    "Info": "The largest object in our solar system, and also called \"Sol\" (very popular in sci-fi circles), this life-giving star provides Earth with the warmth it needs for life to flourish.  Just don't be near it in about 5 billion years!"
+  },
+  {
+    "Name": "Mercury",
+    "Type": "Planet",
+    "Info": "The first planet of our starsystem, Mercury is a small, rocky planet that is hot on the side facing the sun, but cold on the side facing away from the sun.  It has no atmosphere.  From Earth's perspective', it seems to go backwards three to four times a year, in a phenomenon called \"Mercury Retrograde\"."
+  },
+  {
+    "Name": "Venus",
+    "Type": "Planet",
+    "Info": "Sometimes called \"Earth's Twin\", Venus is a hellish world, with temperatures exceeding 900 F.  It's hot enough to melt lead.  Not a very hospitable planet."
+  },
+  {
+    "Name": "Earth",
+    "Type": "Planet",
+    "Info": "We are here.  It's a blue-green dot amongst the sea of the stars.  It is not flat, otherwise cats would have knocked everything off of the edge by now."
+  },
+  {
+    "Name": "Mars",
+    "Type": "Planet",
+    "Info": "Fourth planet of this starsystem.  Life may have existed here at one point, but we're not entirely sure."
+  },
+  {
+    "Name": "Jupiter",
+    "Type": "Planet",
+    "Info": "This is the largest planet in our starsystem.  It's a large gas giant, and has many moons.  It gets turned into a second sun in the movie 2010.  It has about a 10-year orbit, and has a distinctive storm called the Great Red Spot."
+  },
+  {
+    "Name": "Saturn",
+    "Type": "Planet",
+    "Info": "The sixth planet of the starsystem, Saturn has a system of rings that give it its distinct look.  It also has many moons, a few of which seem to act as \"shephard\" moons which keep the rings organized."
+  },
+  {
+    "Name": "Uranus",
+    "Type": "Planet",
+    "Info": "The seventh planet of the starsystem.  It's the butt of many jokes.  (That was bad, sorry!)  It's tilted on its side and has a ring of its own to match the extreme tilt."
+  },
+  {
+    "Name": "Neptune",
+    "Type": "Planet",
+    "Info": "The eigth planet of the starsystem.  It's blue, like the ocean.  It is sometimes outside of the orbit of Pluto due to Pluto's eccentric orbit.  It has something Pluto doesn't have anymore:  planet status."
+  },
+  {
+    "Name": "Pluto",
+    "Type": "DwarfPlanet",
+    "Info": "Pluto, lord of the underworld.  It has four moons, and is tiny itself.  It was downgraded shortly after the discovery of Eris around 2005 or 2006, which was larger."
+  },
+  {
+    "Name": "Eris",
+    "Type": "DwarfPlanet",
+    "Info": "Another dwarf planet, and the one that led to Pluto's demotion.  It has a 500+ year orbit', and is named after the goddess of discord.  It certainly lived up to its name."
+  },
+  {
+    "Name": "Haumea",
+    "Type": "DwarfPlanet",
+    "Info": "Another dwarf planet, it is oblong.  It also sports its own ring, which goes to show that you don't have to be massive like Saturn to have a ring system."
+  },
+  {
+    "Name": "Halley's Comet",
+    "Type": "Comet",
+    "Info": "Probably one of the most reliably predictable comets.  It has a regular orbital cycle and will return around 2061.  Better get your tickets now!"
+  },
+  {
+    "Name": "Algol",
+    "Type": "Star",
+    "Info": "This is the eye of Medusa in the constellation Perseus.  It's actually a trinary star system, and the smallest star orbits around the brighter central star, which makes Algol appear to blink.  It has a reputation amongst some astrologers as the most malefic star in the heavens.  Arabian commanders also are said to have not initiated battle when Algol was in its dimmest state.  Quite the star."
+  },
+  {
+    "Name": "Ceres",
+    "Type": "Asteroid",
+    "Info": "The largest asteroid in our starsystem.  It could be considered a dwarf planet in its own right."
+  },
+  {
+    "Name": "Vesta",
+    "Type": "Asteroid",
+    "Info": "Another famous asteroid.  For some reason, the humans of this starsystem felt fit to send a probe here."
+  }
+]
